@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "https://aryan4896.github.io/csb-7oitrf/static/css/main.a506afbb.css",
+    "main.js": "https://aryan4896.github.io/csb-7oitrf/static/js/main.c613def4.js",
+    "static/media/img3.jpg": "https://aryan4896.github.io/csb-7oitrf/static/media/img3.ab82766c15cf3c501b71.jpg",
+    "static/media/img2.jpg": "https://aryan4896.github.io/csb-7oitrf/static/media/img2.9b6571241a9f6046531c.jpg",
+    "static/media/img-1.jpg": "https://aryan4896.github.io/csb-7oitrf/static/media/img-1.3cb3dbea3378dd33e2c8.jpg",
+    "static/media/n.jpg": "https://aryan4896.github.io/csb-7oitrf/static/media/n.6ef71e09c2cf8e95149f.jpg",
+    "index.html": "https://aryan4896.github.io/csb-7oitrf/index.html",
+    "main.a506afbb.css.map": "https://aryan4896.github.io/csb-7oitrf/static/css/main.a506afbb.css.map",
+    "main.c613def4.js.map": "https://aryan4896.github.io/csb-7oitrf/static/js/main.c613def4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a506afbb.css",
+    "static/js/main.c613def4.js"
+  ]
+}
